@@ -54,7 +54,7 @@ export const Name: React.FC<React.HTMLProps<HTMLInputElement> & InputProps> =
                 fontFamily: "Montserrat",
                 fontWeight: "bold",
                 fontSize: "2rem",
-                color: "#D4AF37",
+                color: "#FFFFFF",
                 opacity: 0.9,
                 border: 0,
                 outline: 0,
