@@ -17,7 +17,7 @@ import Joyride, { ACTIONS, CallBackProps } from "react-joyride";
 
 // const version = import.meta.env.PACKAGE_VERSION;
 
-const src = new URL("/assets/hbd2.mp3", import.meta.url).href;
+const src = new URL("/assets/hbmgerman3.mp3", import.meta.url).href;
 
 const steps = [
   {
