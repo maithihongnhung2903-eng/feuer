@@ -39,3 +39,21 @@
 .read-the-docs {
   color: #888;
 }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-image: url("./assets/images/123456cake.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+/* Điện thoại */
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+    background-position: center center;
+    background-attachment: scroll;
+  }
+}
