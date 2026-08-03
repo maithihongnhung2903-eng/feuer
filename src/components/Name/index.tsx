@@ -55,7 +55,6 @@ export const Name: React.FC<React.HTMLProps<HTMLInputElement> & InputProps> =
                 fontWeight: "bold",
                 fontSize: "2rem",
                 color: "#D4AF37",
-                textShadow: "0 2px 8px rgba(0, 0, 0, 0.6)",
                 opacity: 0.9,
                 border: 0,
                 outline: 0,
