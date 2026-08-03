@@ -37,7 +37,7 @@ export const Name: React.FC<React.HTMLProps<HTMLInputElement> & InputProps> =
         <div
           style={{
             position: "absolute",
-            top: "25%",
+            top: "75%",
             left: "50%",
             transform: "translateX(-50%)",
             display: "flex",
